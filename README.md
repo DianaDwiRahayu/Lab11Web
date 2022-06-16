@@ -85,7 +85,9 @@ kodenya seperti berikut
 
 ![24](https://user-images.githubusercontent.com/101866805/172617752-c927ddbf-76a8-464a-beb1-ab9adea6104a.png)
 ![25](https://user-images.githubusercontent.com/101866805/172617763-2db79ed6-885b-4ae1-a976-428f57126a12.png)
-<p> <b>Praktikum 12: Framework Lanjutan (CRUD)</b>
+<p> <b>Praktikum 12: Framework Lanjutan (CRUD)
+<p> Pertanyaan dan Tugas </b>
+<p> Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi. 
 <p> Membuat Database : Studi Kasus Data Artikel
 <p> Membuat database dengan nama lab_ci4 kemudian membuat table artikel
 
